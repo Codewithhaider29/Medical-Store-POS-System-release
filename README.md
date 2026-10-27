@@ -6,9 +6,9 @@ This repository hosts official installer releases, release notes, and the centra
 
 ---
 
-## 🚀 Latest Release: v1.0.0
+## 🚀 Latest Release: v1.0.1
 
-- **Download Installer:** [MedicalStorePOS_Setup_v1.0.0.exe](https://github.com/Codewithhaider29/Medical-Store-POS-System-release/releases/download/v1.0.0/MedicalStorePOS_Setup_v1.0.0.exe)
+- **Download Installer:** [MedicalStorePOS_Setup_v1.0.1.exe](https://github.com/Codewithhaider29/Medical-Store-POS-System-release/releases/download/v1.0.1/MedicalStorePOS_Setup_v1.0.1.exe)
 - **Direct Update Metadata:** [version.json](https://raw.githubusercontent.com/Codewithhaider29/Medical-Store-POS-System-release/main/version.json)
 - **Release Date:** October 2026
 
@@ -38,5 +38,5 @@ All official installers are verified using SHA-256 checksums listed in `version.
 
 To verify your downloaded installer in PowerShell:
 ```powershell
-Get-FileHash -Path .\MedicalStorePOS_Setup_v1.0.0.exe -Algorithm SHA256
+Get-FileHash -Path .\MedicalStorePOS_Setup_v1.0.1.exe -Algorithm SHA256
 ```

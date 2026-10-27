@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "releaseNotes": "Medical Store Point of Sale v1.0.0 Release:\n- Full Point of Sale & Invoicing Engine\n- Real-time inventory tracking & stock management\n- Auto-Update System with version.json semantic check\n- Background Persistence with Windows Notification Tray\n- Two-Repository Release Pipeline automation",
-  "downloadUrl": "https://github.com/Codewithhaider29/Medical-Store-POS-System-Release/releases/download/v1.0.0/MedicalStorePOS_Setup_v1.0.0.exe",
+  "downloadUrl": "https://github.com/Codewithhaider29/Medical-Store-POS-System-Release/releases/download/v1.0.1/MedicalStorePOS_Setup_v1.0.1.exe",
   "minWindowsVersion": "10.0",
-  "publishedAt": "2026-10-27T23:50:00Z",
+  "publishedAt": "2026-10-27T19:20:59Z",
   "sha256Hash": "31AD2EEE6C769419B9B712386D1A7B6359537D1695906C48F20A801C520087B5"
 }
