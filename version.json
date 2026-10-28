@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
-  "releaseNotes": "Medical Store Point of Sale v1.1.1\n- Auto-Update System with version.json semantic check\n- Background Persistence: window hides to tray on close\n- System Tray Integration with menu and quick restore\n- Two-Repository Release Pipeline automation\n- Real-time inventory stock deduction fixes",
-  "downloadUrl": "https://github.com/Codewithhaider29/Medical-Store-POS-System-Release/releases/download/v1.1.1/MedicalStorePOS_Setup_v1.1.1.exe",
+  "version": "1.2.0",
+  "releaseNotes": "Medical Store Point of Sale v1.2.0\n- Auto-Update System with version.json semantic check\n- Background Persistence: window hides to tray on close\n- System Tray Integration with menu and quick restore\n- Two-Repository Release Pipeline automation\n- Real-time inventory stock deduction fixes",
+  "downloadUrl": "https://github.com/Codewithhaider29/Medical-Store-POS-System-Release/releases/download/v1.2.0/MedicalStorePOS_Setup_v1.2.0.exe",
   "minWindowsVersion": "10.0",
-  "publishedAt": "2026-10-28T11:23:34Z",
-  "sha256Hash": "59A5064615376AEC3590EBF185FFBA61B1FF8ADB21F49CAEBB312BA64322F50B"
+  "publishedAt": "2026-10-28T11:41:38Z",
+  "sha256Hash": "62992A676FB3D327465F5E00F4D4D4A764D172C9BAC95C3279AAF5E70B1C398C"
 }
