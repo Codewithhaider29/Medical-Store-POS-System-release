@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.4.5",
-    "releaseNotes":  "Medical Store Point of Sale v1.4.5\n- Fix sale completion error by validating local user entity persistence and non-null sale items.\n- Permanent Persistent User Session via Windows DPAPI.\n- Online/Offline Reachability Management.\n- All 45 security hardening tests verified.",
-    "downloadUrl":  "https://github.com/Codewithhaider29/Medical-Store-POS-System-Release/releases/download/v1.4.5/MedicalStorePOS_Setup_v1.4.5.exe",
+    "version":  "1.4.6",
+    "releaseNotes":  "Medical Store Point of Sale v1.4.6\n- Auto-Update System with version.json semantic check\n- Background Persistence: window hides to tray on close\n- System Tray Integration with menu and quick restore\n- Two-Repository Release Pipeline automation\n- Real-time inventory stock deduction fixes",
+    "downloadUrl":  "https://github.com/Codewithhaider29/Medical-Store-POS-System-Release/releases/download/v1.4.6/MedicalStorePOS_Setup_v1.4.6.exe",
     "minWindowsVersion":  "10.0",
-    "publishedAt":  "2026-11-23T17:10:59Z",
-    "sha256Hash":  "47234889A845603FCCCEA6FF5E42F4AD765FCF4E30BF58F783CA8B4EB61C5F55"
+    "publishedAt":  "2026-11-23T17:20:43Z",
+    "sha256Hash":  "EA72D9C0DE7FEE952C3A73C19D44DC84C4F94D612847E61BBC0DED1ADE174F75"
 }
