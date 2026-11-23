@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.4.3",
-    "releaseNotes":  "Medical Store Point of Sale v1.4.3\n- UI/UX Complete Redesign across all 25 screens, pages, and dialogs\n- Modern Bright SaaS visual theme with optimized color hierarchy\n- 2GB RAM Hardware Optimization with DataGrid Recycling and zero-lag rendering\n- Agency Admin Approval workflow: accounts wait for dashboard approval before login\n- Fourth Subscription Plan Lifetime with permanent access and unlimited quotas\n- Settings In-Session Reset Password implementation and Performance tab removal",
-    "downloadUrl":  "https://github.com/Codewithhaider29/Medical-Store-POS-System-Release/releases/download/v1.4.3/MedicalStorePOS_Setup_v1.4.3.exe",
+    "version":  "1.4.4",
+    "releaseNotes":  "Medical Store Point of Sale v1.4.4\n- Permanent Persistent User Session: Users authenticate once via cloud and remain securely logged in across app restarts, crashes, and Windows reboots using Windows DPAPI.\n- Offline POS Continuity: Once authenticated, complete POS operations (billing, sales, customer khata, reports, thermal printing) run 100% uninterrupted offline against local SQLite.\n- Online/Offline Reachability Management: Mandatory internet verification for initial Login and Register screens with clear user guidance when disconnected.\n- Header Connectivity Badge: Dynamic visual indicator showing real-time Cloud Sync / Offline POS status.\n- Secure Manual Logout: Explicit user logout invalidates local DPAPI tokens and cloud session.\n- 45 Comprehensive Security \u0026 Hardening verification tests passing with 0 failures.",
+    "downloadUrl":  "https://github.com/Codewithhaider29/Medical-Store-POS-System-Release/releases/download/v1.4.4/MedicalStorePOS_Setup_v1.4.4.exe",
     "minWindowsVersion":  "10.0",
-    "publishedAt":  "2026-11-23T12:12:30Z",
-    "sha256Hash":  "9DAD858DC42991A8412B26533BBB7EB0189A3B6A644B296CB1FC1EC04A2EE2C7"
+    "publishedAt":  "2026-11-23T16:38:07Z",
+    "sha256Hash":  "115300D042ACACE2BD704C19EDA22EC12114E7C3AB347C09A50FE8A08ACF9622"
 }
