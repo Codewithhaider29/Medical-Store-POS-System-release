@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.4.1",
-    "releaseNotes":  "Medical Store Point of Sale v1.4.1\n- Settings: Implemented in-session Reset Password with dual SQLite \u0026 Central SaaS Cloud synchronization\n- Settings: Removed obsolete Performance Testing tab and developer passkey prompt\n- Auth Hardening: Resolved duplicate OTP delivery with rate-limiter and request deduplication\n- Auth Hardening: Resolved password reset rejection during login by synchronizing BCrypt hash to cloud PostgREST\n- Deployment: Self-contained packaging bundling .NET 8 runtime directly with application",
-    "downloadUrl":  "https://github.com/Codewithhaider29/Medical-Store-POS-System-Release/releases/download/v1.4.1/MedicalStorePOS_Setup_v1.4.1.exe",
+    "version":  "1.4.2",
+    "releaseNotes":  "Medical Store Point of Sale v1.4.2\n- Auto-Update System with version.json semantic check\n- Background Persistence: window hides to tray on close\n- System Tray Integration with menu and quick restore\n- Two-Repository Release Pipeline automation\n- Real-time inventory stock deduction fixes",
+    "downloadUrl":  "https://github.com/Codewithhaider29/Medical-Store-POS-System-Release/releases/download/v1.4.2/MedicalStorePOS_Setup_v1.4.2.exe",
     "minWindowsVersion":  "10.0",
-    "publishedAt":  "2026-11-23T10:42:04Z",
-    "sha256Hash":  "1E17A88F1B5A6B01D6A154F5AF05DD17AF767B609A2DCA0870723BB8DCDCB479"
+    "publishedAt":  "2026-11-23T10:56:35Z",
+    "sha256Hash":  "EBD2BABD48DEFD43C618CD3044E18D66FF04CE3583B449E1E91D07944559F35D"
 }
