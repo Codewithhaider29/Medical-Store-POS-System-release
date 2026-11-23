@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.4.2",
-    "releaseNotes":  "Medical Store Point of Sale v1.4.2\n- Auto-Update System with version.json semantic check\n- Background Persistence: window hides to tray on close\n- System Tray Integration with menu and quick restore\n- Two-Repository Release Pipeline automation\n- Real-time inventory stock deduction fixes",
-    "downloadUrl":  "https://github.com/Codewithhaider29/Medical-Store-POS-System-Release/releases/download/v1.4.2/MedicalStorePOS_Setup_v1.4.2.exe",
+    "version":  "1.4.3",
+    "releaseNotes":  "Medical Store Point of Sale v1.4.3\n- UI/UX Complete Redesign across all 25 screens, pages, and dialogs\n- Modern Bright SaaS visual theme with optimized color hierarchy\n- 2GB RAM Hardware Optimization with DataGrid Recycling and zero-lag rendering\n- Agency Admin Approval workflow: accounts wait for dashboard approval before login\n- Fourth Subscription Plan Lifetime with permanent access and unlimited quotas\n- Settings In-Session Reset Password implementation and Performance tab removal",
+    "downloadUrl":  "https://github.com/Codewithhaider29/Medical-Store-POS-System-Release/releases/download/v1.4.3/MedicalStorePOS_Setup_v1.4.3.exe",
     "minWindowsVersion":  "10.0",
-    "publishedAt":  "2026-11-23T10:56:35Z",
-    "sha256Hash":  "EBD2BABD48DEFD43C618CD3044E18D66FF04CE3583B449E1E91D07944559F35D"
+    "publishedAt":  "2026-11-23T12:12:30Z",
+    "sha256Hash":  "9DAD858DC42991A8412B26533BBB7EB0189A3B6A644B296CB1FC1EC04A2EE2C7"
 }
