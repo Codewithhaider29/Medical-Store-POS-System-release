@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.5.3",
-    "releaseNotes":  "Medical Store Point of Sale v1.5.3\n- Auto-Update System with version.json semantic check\n- Background Persistence: window hides to tray on close\n- System Tray Integration with menu and quick restore\n- Two-Repository Release Pipeline automation\n- Real-time inventory stock deduction fixes",
-    "downloadUrl":  "https://github.com/Codewithhaider29/Medical-Store-POS-System-Release/releases/download/v1.5.3/MedicalStorePOS_Setup_v1.5.3.exe",
+    "version":  "1.5.4",
+    "releaseNotes":  "Medical Store Point of Sale v1.5.4\n- Device Activation \u0026 Centralized Remote Management (Basic: 1, Pro: 2, Ultimate: 3, Lifetime: 1)\n- Real-time batch number and purchase price visibility in New Sale \u0026 Packaging dialog\n- Customers management: removed Add Customer button across all plans\n- Basic and Lifetime subscription plans restricted to single Admin account only\n- Fixed cloud token Lifetime parsing string handling",
+    "downloadUrl":  "https://github.com/Codewithhaider29/Medical-Store-POS-System-Release/releases/download/v1.5.4/MedicalStorePOS_Setup_v1.5.4.exe",
     "minWindowsVersion":  "10.0",
-    "publishedAt":  "2026-11-24T11:33:16Z",
-    "sha256Hash":  "3A3B72E53A65CE460A46BD7ECBA068468E3426CE3558F6EA1090DFAE1C2CA5C0"
+    "publishedAt":  "2026-11-24T17:39:17Z",
+    "sha256Hash":  "8192C635FA30C1EABF0DFB9E29C2117F7F86323060318054BAEF580D1D1D2018"
 }
